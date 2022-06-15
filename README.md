@@ -38,7 +38,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Download links
 
-- [App Store](https://apps.apple.com/by/app/pgapp-password-generator-app/id1626463409)
+- [App Store](https://apps.apple.com/app/pgapp-password-generator-app)
 - [Google Play](https://play.google.com/store/apps/details?id=com.twelvedevs.pgapp)
 - [Web version](https://pgapp.twelvedevs.com/)
 
